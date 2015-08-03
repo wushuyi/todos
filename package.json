@@ -1,0 +1,11 @@
+{
+  "name": "Todos",
+  "version": "0.0.1",
+  "description": "Todos by Systemjs and Bable",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wushuyi/Todos"
+  },
+  "author": "Guy Bedford",
+  "license": "BSD"
+}
